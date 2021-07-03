@@ -4,7 +4,7 @@
 [![Mel's GitHub stats](https://github-readme-stats.vercel.app/api?username=melanierogan)](https://github.com/anuraghazra/github-readme-stats)
 
 
-🔭 I’m generally work with these languages ...
+🔭 I generally work with these languages ...
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melanierogan)](https://github.com/anuraghazra/github-readme-stats)
