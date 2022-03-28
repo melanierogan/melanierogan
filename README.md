@@ -26,6 +26,7 @@
 <p float="middle">
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
 </p>
 <!--
 **melanierogan/melanierogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
