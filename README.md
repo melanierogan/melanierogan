@@ -1,10 +1,11 @@
 ### Hi there, i'm Mel 👋
 
+I'm a Senior Software Engineer II & Tech Lead based in the UK, building modern TypeScript/Node.js systems, data pipelines, and large-scale integrations on AWS.
 
-[![Mel's GitHub stats](https://github-readme-stats.vercel.app/api?username=melanierogan)](https://github.com/anuraghazra/github-readme-stats)
+I currently Tech Lead and line-manage a team of engineers focusing on MarTech and Integrations, designing the architecture that connects customer, marketing, and commercial systems.
 
 
-🔭 I generally work with 
+🔭 What I work with 
 <p float="middle">
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -39,6 +40,27 @@
 <img alt="CircleCI" src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
 </p>
 
+### What I care about
+- Building reliable data flows that teams can trust  
+- Clear engineering standards (testing, documentation, quality)  
+- Making integrations boring—in a good way  
+- Coaching engineers and growing healthy teams  
+- Worker voice and fairness (I’m also a workplace rep)
+
+### What you'll find here
+- Tools that make integrations easier  
+- Experiments in TypeScript, AWS, and workflow design  
+- Notes and templates for modern engineering practices  
+- Side projects when I get time
+
+### Currently learning
+- Temporal (durable workflows)  
+- Event-driven architecture patterns  
+- Better technical storytelling & documentation
+
+---
+
+If you want to say hi or collaborate, feel free to reach out.
 <!--
 **melanierogan/melanierogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
